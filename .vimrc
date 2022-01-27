@@ -12,6 +12,3 @@ highligh Comment ctermfg=green
 
 " use new regex engine
 set re=0
-
-" remap escape key on "jk" to leave insert mode
-inoremap jk <ESC>
